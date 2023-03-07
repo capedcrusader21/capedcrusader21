@@ -1,23 +1,23 @@
 
-Hi there 👋, I am Caped Crusader!
+###Hi there 👋, I am Caped Crusader!
 
-Skills:
+**Skills**:
+* Ethereum
+* Layer 2(Polygon)
+* NFTs
+* DeFi
+* Solidity
+* Hardhat
+* Foundry
+* Javascript
+* Mocha
+* Chai
+* Problem Solving
+* Data Structures
+* Rails
+* Node
+* React
 
-Ethereum
-Layer 2(Polygon)
-NFTs
-DeFi
-Solidity
-Hardhat
-Foundry
-Javascript
-Mocha
-Chai
-Problem Solving
-Data Structures
-Rails
-Node
-React
 An experienced solidity developer with expertise in understanding and delivering software solutions based on business requirements.
 
 My interest lies in NFTs, Marketplaces, Decentralised Finance and Blockchain development in general.
